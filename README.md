@@ -3,9 +3,9 @@ Paolo's fork for https://github.com/neosergio/Latam-Keyboard.git
 
 Mostly for my own dev purposes:
 - Fixes the cmd + + (plus) functionallity
-- Adds another way of typing | (right control + leftmost key (before the 1))
-- Gives me an easy way to install it
-
+- Adds another way of typing | (right control + leftmost key (before the 1)) - might interact incorrectrly with 
+- Works perfectly with [Logitech MX Keys Mini](https://www.logitech.com/en-us/shop/p/mx-keys-mini.920-010388?sp=1&searchclick=Logitech) keyboards that don't have a key between the left ⇧ and z keys
+ 
 A Mac Keyboard Layout for latin american keyboards
 
 ![Latin American layout](http://i.imgur.com/5zm6nHB.png)
