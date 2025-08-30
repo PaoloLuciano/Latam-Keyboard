@@ -1,4 +1,11 @@
 # Latam-Keyboard
+Paolo's fork for https://github.com/neosergio/Latam-Keyboard.git
+
+Mostly for my own dev purposes:
+- Fixes the cmd + + (plus) functionallity
+- Adds another way of typing | (right control + leftmost key (before the 1))
+- Gives me an easy way to install it
+
 A Mac Keyboard Layout for latin american keyboards
 
 ![Latin American layout](http://i.imgur.com/5zm6nHB.png)
